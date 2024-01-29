@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!---
 ___
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My skills
 - _HTML, CSS, Tailwind, Figma_
@@ -12,6 +13,7 @@ ___
 - _Node.js, React, Express, Elysia.js_
 - _Bun, Git, Linux, npm_
 ___
+--->
 
 <!---
 webHikari/webHikari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

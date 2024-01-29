@@ -1,10 +1,9 @@
 <div align="left">
 <h1 align="left">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Hikari</h1>
-<h3 align="left">I'm FullStack JavaScrit/TypeScript Developer.</h3>
+<h3 align="left">I'm FullStack JavaScrit Developer</h3>
 </div>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+<div align="left">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>

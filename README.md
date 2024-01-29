@@ -1,6 +1,6 @@
 <div align="left">
 <h1 align="left">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Hikari</h1>
-<h4 align="left">A Freelance-Outsource FullStack JS developer.</h4>
+<h3 align="left">I'm FullStack JavaScrit/TypeScript Developer.</h3>
 </div>
 
 <div align="center">

@@ -1,6 +1,6 @@
 <div align="left">
 <h1 align="left">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Hikari</h1>
-<h4 align="left">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="left">A Freelance-Outsource FullStack JS developer.</h4>
 </div>
 
 <div align="center">

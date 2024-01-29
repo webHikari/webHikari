@@ -7,6 +7,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<!---
 ___
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My skills
 - _HTML, CSS, Tailwind, Figma_
@@ -14,7 +15,6 @@ ___
 - _Node.js, React, Express, Elysia.js_
 - _Bun, Git, Linux, npm_
 ___
-<!---
 --->
 
 <!---

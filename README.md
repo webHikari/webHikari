@@ -1,6 +1,6 @@
 <div align="left">
-<h1 align="left">&nbsp;&nbsp;Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <span style="color: red;">Hikari</span></h1>
-<h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;I'm FullStack JavaScript Developer</h3>
+<h1 align="left">&nbsp;&nbsp;&nbsp;Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <span style="color: red;">Hikari</span></h1>
+<h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm FullStack JavaScript Developer</h3>
 </div>
 
 <div align="left">

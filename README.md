@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://github.com/webHikari/webHikari/blob/main/hyoka.jpg?raw=true"  />
+  <img src="https://github.com/webHikari/webHikari/blob/main/hyoka.jpg?raw=true"  />
 </div>
 
 ###

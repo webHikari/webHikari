@@ -10,19 +10,12 @@
 
 ###
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=webHikari.webHikari&"  />
-</div>
-
-###
 
 <h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
 
-<p align="left">Я фронтенд разработчик, но от фуллстека не могу избавиться ^^</p>
+<p align="left">Я кнопкокрас</p>
 
 ###
 
@@ -30,7 +23,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Мои технологии которые я нашел у другого чела, но у него были не все мои:</h3>
 
 ###
 
@@ -64,6 +57,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=webHikari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=webHikari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=webHikari.webHikari&"  />
 </div>
 
 ###

@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">🛠 Мои технологии которые я нашел у другого чела, но у него были не все мои:</h3>
+<h3 align="left">🛠 Да:</h3>
 
 ###
 
@@ -45,12 +45,7 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   Моя статистика :</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=webHikari&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
